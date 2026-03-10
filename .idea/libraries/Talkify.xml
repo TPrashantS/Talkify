@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Talkify">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chatting-application-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Chatting Application-20260228T124429Z-1-001.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
